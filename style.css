@@ -57,3 +57,50 @@ body{
     border-radius: 16px;
 
 }
+
+.searchsect{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.search{
+    padding: 20px;
+    border-radius: 16px;
+    margin:20px;
+    font-family: "Segoe UI";  
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width:75%;
+    background-color:#E4E7EB;
+}
+
+.submit{
+    padding:20px;
+    border-radius: 16px;
+    background-color: #E4E7EB;
+    cursor: pointer;
+}
+
+.submit img{
+    height: 15px;
+    width: 15px;
+}
+.submit:active{
+    background-color: #77797c;
+}
+
+
+.filter{
+    padding:20px;
+    border-radius: 16px;
+    background-color: #E4E7EB;
+    cursor: pointer;
+    margin:10px;
+        font-family: "Segoe UI";  
+}
+
+.filter:active{
+    background-color: #77797c;
+}
