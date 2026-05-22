@@ -42,6 +42,7 @@ submit.addEventListener("click", () => {
 
     const filteredMovies = allMovies.filter(movies => movies.title.toLowerCase().includes(movie) && movies.genre.toLowerCase().includes(type));
 
+
     renderData(filteredMovies);
 })
 

@@ -68,5 +68,55 @@
     "genre": "Sci-Fi",
     "rating": 8.0,
     "poster": "dune.png"
-}
+},
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Action",
+    "rating": 8.5,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy",
+    "rating": 8.8,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Fellowship_Of_The_Ring.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genre": "Fantasy",
+    "rating": 9.0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Lord_Rings_Return_King.jpg"
+  },
+  {
+    "title": "Batman Begins",
+    "year": 2005,
+    "genre": "Action",
+    "rating": 8.2,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg"
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genre": "Animation",
+    "rating": 8.2,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg"
+  },
+  {
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "genre": "Sci-Fi",
+    "rating": 7.2,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg"
+  },
+  {
+    "title": "Shrek 2",
+    "year": 2004,
+    "genre": "Animation",
+    "rating": 7.4,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b9/Shrek_2_poster.jpg"
+  }
+
 ]
